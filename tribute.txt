@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Kobe Bryant</title>
+    <style>
+        /* Styling the body element */
+        body {
+            background-color: #F5F5F5;
+            margin: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Styling the title */
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Styling the image */
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Styling the tribute content */
+        #tribute-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFF;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Styling the footer */
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tribute to Kobe Bryant</h1>
+    <img src="kobe_bryant.jpg" alt="Kobe Bryant">
+    <div id="tribute-content">
+        <h2>Remembering the Black Mamba</h2>
+        <p>
+            Kobe Bryant, born on August 23, 1978, was an American professional basketball player. He spent his entire 20-year NBA career with the Los Angeles Lakers, winning five NBA championships and earning numerous accolades.
+        </p>
+        <p>
+            Known for his work ethic, competitive spirit, and clutch performances, Kobe inspired millions of fans worldwide. His relentless pursuit of excellence on and off the court left an indelible mark.
+        </p>
+        <p>
+            We remember Kobe not only as a basketball legend but also as a devoted father, an Oscar winner, and an advocate for women's sports. His legacy lives on, motivating future generations to dream big and work hard.
+        </p>
+    </div>
+    
+</body>
+</html>
